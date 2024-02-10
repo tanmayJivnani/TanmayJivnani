@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TanmayJivnani
 - 👀 I’m interested in Web Dev and UI/UX Design
-- 🌱 I’m currently learning Front-End Development and UI Design
+- 🌱 I’m currently learning Front-End Development
 - 📫 LinkedIn : https://www.linkedin.com/in/tanmay-jivnani
 
 <!---
